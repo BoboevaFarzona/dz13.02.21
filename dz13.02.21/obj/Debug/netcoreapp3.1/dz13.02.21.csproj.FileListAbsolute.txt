@@ -1,0 +1,13 @@
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\bin\Debug\netcoreapp3.1\dz13.02.21.exe
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\bin\Debug\netcoreapp3.1\dz13.02.21.deps.json
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\bin\Debug\netcoreapp3.1\dz13.02.21.runtimeconfig.json
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\bin\Debug\netcoreapp3.1\dz13.02.21.runtimeconfig.dev.json
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\bin\Debug\netcoreapp3.1\dz13.02.21.dll
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\bin\Debug\netcoreapp3.1\dz13.02.21.pdb
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\obj\Debug\netcoreapp3.1\dz13.02.21.csprojAssemblyReference.cache
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\obj\Debug\netcoreapp3.1\dz13.02.21.AssemblyInfoInputs.cache
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\obj\Debug\netcoreapp3.1\dz13.02.21.AssemblyInfo.cs
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\obj\Debug\netcoreapp3.1\dz13.02.21.csproj.CoreCompileInputs.cache
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\obj\Debug\netcoreapp3.1\dz13.02.21.dll
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\obj\Debug\netcoreapp3.1\dz13.02.21.pdb
+C:\Users\ALIF ACADEMY\source\repos\dz13.02.21\dz13.02.21\obj\Debug\netcoreapp3.1\dz13.02.21.genruntimeconfig.cache
